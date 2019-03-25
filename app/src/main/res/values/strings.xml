@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase_LoginAndSignUp</string>
+    <string name="login">登入</string>
+    <string name="signup">註冊</string>
+</resources>
